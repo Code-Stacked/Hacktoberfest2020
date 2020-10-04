@@ -25,7 +25,7 @@ Show your App Dev Skills. Add complete working code with screenshots.
 - Read the [Code of Conduct](https://github.com/Code-Stacked/Code-of-Conduct)
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this App looks like.
-- Having difficulty in contributing? Read the [Contribution Guide](https://github.com/Code-Stacked/Hacktoberfest2020/CONTRIBUTING.md) for a detailed explanation.
+- Having difficulty in contributing? Read the [Contribution Guide](https://github.com/Code-Stacked/Hacktoberfest2020/blob/main/CONTRIBUTING.md) for a detailed explanation.
 
 ## Connect with us On Social media
 
