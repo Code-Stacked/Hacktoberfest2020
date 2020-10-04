@@ -7,7 +7,9 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+![Visitors](https://gpvc.arturio.dev/HactoberFest2020)  
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ![Issues](https://img.shields.io/github/issues/Code-Stacked/Hacktoberfest2020)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Code-Stacked/Hacktoberfest2020)
